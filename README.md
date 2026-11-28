@@ -1,15 +1,9 @@
 # Ghost 猫 · 细化版
 
-「Ghost 猫 · 细化版」是为 macOS 上的 KuroCat 绘制的同人皮肤，已在 KuroCat v1.5.3 验证导入。
-
-
-## macOS 导入
-
-下载皮肤后，在 KuroCat 菜单栏选择「猫咪皮肤 → 导入皮肤…」，选中下载的文件。 [下载细化版皮肤](Ghost-Cat-Refined.kurocat)
-
-## Windows x64 原版
-
-在发布页的 **Assets** 中下载 `.exe` 后直接运行，或下载 `.zip` 后解压运行。如果 KuroCat 正在运行，先从任务栏托盘退出。 [下载 Alba浅浅 制作的 Windows 原版](https://github.com/Alba0567/Ghost-cat-desktop/releases/latest)
+> [!IMPORTANT]
+> 由于旧皮肤格式对新版互动功能的支持有限，本版本暂停更新，旧皮肤已停止提供下载。
+>
+> 想体验最新版桌宠，请移步 [CODCat 项目主页](https://github.com/KleninerYY/KuroCat-Cod-Skin)，可在首页下载 Mac 或 Windows 版。
 
 ## 特别感谢
 
